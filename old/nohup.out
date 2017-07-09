@@ -1,0 +1,1 @@
+run.rb:5: warning: already initialized constant OpenSSL::SSL::VERIFY_PEER
